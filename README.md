@@ -25,6 +25,10 @@ In the future we would like to implement: Support player challenge friends and o
 
 https://nft-guess-tezos.netlify.app/
 
+## Video Demo
+https://youtu.be/0rwDEIYgMzY
+
+
 # How it's made
 
 Guessing NFT Game application makes use of the following softwares:
